@@ -1,0 +1,1 @@
+# Extract News Data from End-of-Day Historical Data's API
